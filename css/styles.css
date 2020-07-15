@@ -13,12 +13,12 @@ body {
 }
 .imagem {
   display: table-cell;
-  max-width: 20%;
+  max-width: 1%;
   width: auto;
   height: auto;
   float: left;
-  margin-left: -40px;
-  margin-top: -90px;
+  margin-left: -25px;
+  margin-top: -30px;
 }
 
 
