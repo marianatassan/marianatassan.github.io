@@ -1,13 +1,15 @@
 .header-1 {
   background-color: #FFF2CD;
   height: 80px;
+}
 .logo {
   h1.color: #000000;
   padding: 10px;
+}
+.logo {
   img.align-right {
     float: right;
     margin-left: 10px;}
-  }
 }
 body {
   background-color: #FFFFCC;
