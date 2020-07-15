@@ -1,16 +1,19 @@
-h1 {
-  color: #000000;
-  font-size: 80px;
-  padding: 10px;
-}
-img {
-  width: 80px;
-  height: 80px;
-  float: right;
-  margin-left: 5px;
-}
 body {
   background-color: #FFFFCC;
+}
+.logo {
+  display: table;
+}
+.texto {
+  display: table-cell;
+  font-size: 80px;
+  float: left;
+}
+.imagem {
+  display: table-cell;
+  width: 100px;
+  float: left;
+  margin-left: 5px;
 }
 
 
