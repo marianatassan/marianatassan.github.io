@@ -13,8 +13,7 @@ body {
 }
 .imagem {
   display: table-cell;
-  max-width:"20";
-  max-height:"20";
+  max-width: 20%;
   width: auto;
   height: auto;
   float: left;
