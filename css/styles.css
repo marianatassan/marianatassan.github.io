@@ -9,8 +9,8 @@ h1 {
 .foto-logo {
   width: 80px;
   height: 80px;
-  float: left;
-  margin-right: 10px;
+  float: right;
+  margin-left: 10px;
 }
 body {
   background-color: #FFFFCC;
