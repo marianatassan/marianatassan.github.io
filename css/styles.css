@@ -2,12 +2,10 @@
   h1.color: #000000;
   h1.font-size: 500%;
   padding: 10px;
-  img.align-right {
-    float: right;
-    margin-left: 10px;}
-  img.small {
-    width: 80px;
-    height: 80px;}
+  img.float: right;
+  img.margin-left: 10px;
+  img.width: 80px;
+  img.height: 80px;
 }
 body {
   background-color: #FFFFCC;
