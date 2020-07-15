@@ -1,11 +1,13 @@
-.logo {
-  h1.color: #000000;
-  h1.font-size: 500%;
+h1 {
+  color: #000000;
+  font-size: 80px;
   padding: 10px;
-  img.float: right;
-  img.margin-left: 10px;
-  img.width: 80px;
-  img.height: 80px;
+}
+img {
+  width: 80px;
+  height: 80px;
+  float: right;
+  margin-left: 5px;
 }
 body {
   background-color: #FFFFCC;
