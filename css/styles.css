@@ -9,7 +9,10 @@
 .logo {
   img.align-right {
     float: right;
-    margin-left: 10px;
+    margin-left: 10px;}
+  img.small {
+    width: 80px;
+    height: 80px;}
 }
 body {
   background-color: #FFFFCC;
