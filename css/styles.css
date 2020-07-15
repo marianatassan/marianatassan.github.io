@@ -1,5 +1,6 @@
 .logo {
   h1.color: #000000;
+  h1.font-size: 500%;
   padding: 10px;
   img.align-right {
     float: right;
