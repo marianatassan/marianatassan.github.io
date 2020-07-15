@@ -1,16 +1,16 @@
 .header-1 {
   background-color: #FFF2CD;
   height: 80px;
-}
-h1 {
+  h1 {
   background-color: #FFFFCC;
   padding: 5px;
-}
-.foto-logo {
+  }
+  .foto-logo {
   width: 80px;
   height: 80px;
   float: right;
   margin-left: 10px;
+  }
 }
 body {
   background-color: #FFFFCC;
