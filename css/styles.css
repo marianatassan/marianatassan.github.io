@@ -6,13 +6,13 @@ body {
 }
 .texto {
   display: table-cell;
-  font-size: 60px;
+  font-size: 40px;
   float: left;
-  margin-top: -5px;
+  margin-top: -20px;
 }
 .imagem {
   display: table-cell;
-  width: 60px;
+  width: 40px;
   float: left;
   margin-left: 5px;
 }
