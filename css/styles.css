@@ -73,6 +73,7 @@ img {
 #botoes-fotos-animais ul li a h2 {
   display: table-cell;
   font-size: 40px;
+  list-style: none;
 }
   
 
