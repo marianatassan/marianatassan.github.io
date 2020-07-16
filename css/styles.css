@@ -17,8 +17,8 @@ body {
 .imagem {
   display: table-cell;
   float: left;
-  padding-right: 80px;
-  padding-bottom: 50px;
+  right: 80px;
+  bottom: 60px;
 }
 
 img {
@@ -32,8 +32,8 @@ img {
   background-color: #D2B3F2;
   list-style: none;
   float: right;
-  margin-top: 200px;
-  padding-left: 180px;
+  bottom: 40px;
+  left: 180px;
 }
 
 #menu ul li {
