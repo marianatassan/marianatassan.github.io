@@ -32,13 +32,11 @@ body {
 
 #menu ul li {
   display: inline;
-  float: right;
 }
 
 #menu ul li a {
   padding: 10px 10px;
   display: inline-block;
-  float: right;
   
   color: #000000;
   text-decoration: none;
