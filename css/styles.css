@@ -69,11 +69,10 @@ img {
   padding: 10px 10px;
 }
 
-#botoes-fotos-animais ul li a {
-  display: table-cell;
+#botoes-fotos-animais ul li figcaption {
   font-size: 15px;
-  list-style: none;
-  float: left;
+  display: table-caption;
+  caption-side: top;
 }
   
 
