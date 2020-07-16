@@ -57,14 +57,13 @@ img {
 
 #botoes-fotos-animais ul {
   display: table;
-  position: relative;
   list-style: none;
 }
 
 #botoes-fotos-animais ul li a img{
   border: 3px solid #E5C4EF;
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
   display: table-cell;
   float: right;
   padding: 10px 10px;
@@ -74,6 +73,7 @@ img {
   display: table-cell;
   font-size: 15px;
   list-style: none;
+  float: right;
 }
   
 
