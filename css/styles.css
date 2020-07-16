@@ -57,11 +57,14 @@ img {
 
 #botoes-fotos-animais ul li a img{
   margin: 2;
+  display: table;
+  float: right;
   link-style: none;
   padding: 12px 10px;
 }
 
 #botoes-fotos-animais ul li a img:hover {
   border: 2px solid #777;
+  display: table-cell;
 }
 
