@@ -28,6 +28,8 @@ body {
   background-color: #D2B3F2;
   list-style: none;
   float: right;
+  margin-bottom: 30px;
+  margin-left: 50px;
 }
 
 #menu ul li {
