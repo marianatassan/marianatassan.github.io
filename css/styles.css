@@ -11,7 +11,7 @@ body {
 }
 
 .texto {
-  display: table-cell;
+  display: inline-block;
   font-size: 40px;
   float: left;
   height: 40;
@@ -20,11 +20,11 @@ body {
 }
 
 .imagem {
-  display: table-cell;
+  display: inline-block;
   float: left;
   right: -120px;
   bottom: -120px;
-  width: 150px;
+  width: 120px;
 }
 
 #menu ul{
@@ -43,7 +43,7 @@ body {
 
 #menu ul li a {
   padding: 12px 10px;
-  display: table-cell;
+  display: inline-block;
   color: #000000;
   text-decoration: none;
 }
@@ -85,7 +85,8 @@ figcaption {
 }
 
 .rodape {
-  width: 40%;
+  display: inline-block;
+  width: 20%;
   float: right;
   right: -300px;
   bottom: -150px;
