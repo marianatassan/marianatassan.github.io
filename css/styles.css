@@ -6,8 +6,8 @@ body {
   display: table;
   background-color: #E5C4EF;
   position: relative;
-  height: 50px;
   width: 100%;
+  padding: 0px 50px 70px 100px;
 }
 
 .texto {
