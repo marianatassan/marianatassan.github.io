@@ -19,14 +19,11 @@ body {
   margin-left: 25px
 }
 
-.imagem {
+img {
   display: table-cell;
   float: left;
   right: -120px;
   bottom: -120px;
-}
-
-img {
   width: 150px;
 }
 
@@ -90,4 +87,6 @@ figcaption {
 .rodape {
   width: 40%;
   float: right;
+  right: -100;
+  bottom: -50;
 }
