@@ -6,19 +6,19 @@ body {
   display: table;
   background-color: #E5C4EF;
   position: relative;
-  height: 100px;
+  height: 50px;
   width: 100%;
 }
 
 .texto {
   display: inline-block;
   font-size: 40px;
-  padding: 20px 50px 50px 60px;
+  padding: 10px 50px 50px 60px;
 }
 
 .imagem {
   display: inline-block;
-  padding: 30px 100px 75px 0px;
+  padding: 10px 70px 50px 0px;
   width: 50px;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 #menu ul li a {
-  padding: 25px 0px 75px 50px;
+  padding: 15px 100px 50px 20px;
   display: inline-block;
   color: #000000;
   text-decoration: none;
@@ -54,7 +54,7 @@ body {
 
 .botoes-fotos-animais ul li a{
   display: table-cell;
-  padding: 15px 50px 75px 10px;
+  padding: 15px 50px 75px 5px;
 }
 
 .botoes-fotos-animais ul li a img{
@@ -76,7 +76,6 @@ figcaption {
 
 .rodape {
   display: inline-block;
-  height: 30px;
-  width: 30%;
-  padding: 50px 50px 100px 100px;
+  width: 50%;
+  padding: 25px 75px 75px 25px;
 }
