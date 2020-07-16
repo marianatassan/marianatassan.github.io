@@ -55,12 +55,12 @@ img {
   color: white;
 }
 
-#botoes-fotos-animais ul {
+.botoes-fotos-animais ul {
   display: table;
   list-style: none;
 }
 
-#botoes-fotos-animais ul li a img{
+.botoes-fotos-animais ul li a img{
   display: table-cell;
   float: left;
   border: 3px solid #E5C4EF;
@@ -69,16 +69,14 @@ img {
   padding: 10px 10px;
 }
 
-#botoes-fotos-animais figcaption {
+.botoes-fotos-animais figcaption {
   font-size: 15px;
   display: table-caption;
   caption-side: top;
 }
-  
 
-#botoes-fotos-animais ul li a img:hover {
+.botoes-fotos-animais ul li a img:hover {
   border: 2px solid #777;
-  display: table-cell;
 }
 
 .rodape.displayed {
