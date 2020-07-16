@@ -56,16 +56,25 @@ img {
 }
 
 #botoes-fotos-animais ul {
+  display: table;
+  position: relative;
   list-style: none;
 }
 
 #botoes-fotos-animais ul li a img{
   border: 3px solid #E5C4EF;
   width: 250px;
-  display: table;
+  height: 250px;
+  display: table-cell;
   float: right;
   padding: 10px 10px;
 }
+
+#botoes-fotos-animais ul li a h2 {
+  display: table-cell;
+  font-size: 40px;
+}
+  
 
 #botoes-fotos-animais ul li a img:hover {
   border: 2px solid #777;
