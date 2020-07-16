@@ -10,7 +10,7 @@ body {
   height: 40;
 }
 
-.logo texto {
+.texto {
   display: table-cell;
   font-size: 40px;
   float: left;
@@ -19,7 +19,7 @@ body {
   margin-left: 25px
 }
 
-.logo imagem {
+.imagem {
   display: table-cell;
   float: left;
   right: -120px;
