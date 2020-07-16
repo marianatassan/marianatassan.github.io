@@ -55,9 +55,13 @@ img {
   color: white;
 }
 
-#botoes-fotos-animais ul {
-  margin: 0;
+#botoes-fotos-animais ul li a img{
+  margin: 2;
   link-style: none;
   padding: 12px 10px;
+}
+
+#botoes-fotos-animais ul li a img:hover {
+  color: white;
 }
 
