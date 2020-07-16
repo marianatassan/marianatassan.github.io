@@ -61,11 +61,11 @@ img {
 }
 
 #botoes-fotos-animais ul li a img{
+  display: table;
+  float: left;
   border: 3px solid #E5C4EF;
   width: 200px;
   height: 200px;
-  display: table-cell;
-  float: left;
   padding: 10px 10px;
 }
 
@@ -81,3 +81,8 @@ img {
   display: table-cell;
 }
 
+.rodape {
+  background-color: #FFFFCC;
+  text-align: center;
+  padding: 10px;
+}
