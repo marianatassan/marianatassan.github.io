@@ -83,6 +83,6 @@ img {
 
 .rodape {
   background-color: #FFFFCC;
-  text-align: center;
+  float: center;
   padding: 10px;
 }
