@@ -81,8 +81,11 @@ img {
   display: table-cell;
 }
 
-.rodape {
+.rodape.displayed {
   background-color: #FFFFCC;
   float: center;
   padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto }
 }
