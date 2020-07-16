@@ -65,9 +65,10 @@ body {
 }
 
 figcaption {
-  font-size: 10px;
+  font-size: 15px;
   display: table-caption;
   caption-side: top;
+  padding: 25px 50px 75px 100px;
 }
 
 .botoes-fotos-animais ul li a img:hover {
