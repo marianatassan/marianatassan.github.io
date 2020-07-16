@@ -32,8 +32,6 @@ img {
   background-color: #D2B3F2;
   list-style: none;
   float: right;
-  margin-bottom: 30px;
-  margin-left: 50px;
 }
 
 #menu ul li {
@@ -43,6 +41,8 @@ img {
 #menu ul li a {
   padding: 10px 10px;
   display: inline-block;
+  margin-bottom: 30px;
+  margin-left: 50px;
   
   color: #000000;
   text-decoration: none;
