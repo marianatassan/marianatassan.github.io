@@ -70,9 +70,9 @@ img {
   padding: 10px 10px;
 }
 
-#botoes-fotos-animais ul li a h2 {
+#botoes-fotos-animais ul li a {
   display: table-cell;
-  font-size: 40px;
+  font-size: 15px;
   list-style: none;
 }
   
