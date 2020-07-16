@@ -65,7 +65,7 @@ img {
   width: 200px;
   height: 200px;
   display: table-cell;
-  float: right;
+  float: left;
   padding: 10px 10px;
 }
 
@@ -73,7 +73,7 @@ img {
   display: table-cell;
   font-size: 15px;
   list-style: none;
-  float: right;
+  float: left;
 }
   
 
