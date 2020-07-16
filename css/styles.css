@@ -5,6 +5,9 @@ body {
 .logo {
   display: table;
   background-color: #D2B3F2;
+  position: relative;
+  width: 100%;
+  height: 100;
 }
 
 .texto {
@@ -18,13 +21,12 @@ body {
 .imagem {
   display: table-cell;
   float: left;
-  right: 80px;
-  bottom: 60px;
 }
 
 img {
   width: 110px;
-  float: left;
+  right: 80px;
+  bottom: 60px;
 }
 
 #menu ul{
@@ -33,8 +35,6 @@ img {
   background-color: #D2B3F2;
   list-style: none;
   float: right;
-  bottom: 40px;
-  left: 180px;
 }
 
 #menu ul li {
@@ -44,7 +44,8 @@ img {
 #menu ul li a {
   padding: 12px 10px;
   display: table-cell;
-  
+  bottom: 40px;
+  left: 180px;
   color: #000000;
   text-decoration: none;
 }
