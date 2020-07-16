@@ -35,6 +35,8 @@ img {
   background-color: #E5C4EF;
   list-style: none;
   float: right;
+  bottom: -40px;
+  left: -180px;
 }
 
 #menu ul li {
@@ -44,8 +46,6 @@ img {
 #menu ul li a {
   padding: 12px 10px;
   display: table-cell;
-  bottom: -40px;
-  left: -180px;
   color: #000000;
   text-decoration: none;
 }
