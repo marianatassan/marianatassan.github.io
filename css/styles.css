@@ -13,12 +13,12 @@ body {
 .texto {
   display: inline-block;
   font-size: 40px;
-  padding: 10px 50px 50px 60px;
+  padding: 5px 50px 40px 60px;
 }
 
 .imagem {
   display: inline-block;
-  padding: 10px 70px 50px 0px;
+  padding: 5px 80px 40px 90px;
   width: 50px;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 #menu ul li a {
-  padding: 15px 100px 50px 20px;
+  padding: 15px 50px 50px 500px;
   display: inline-block;
   color: #000000;
   text-decoration: none;
