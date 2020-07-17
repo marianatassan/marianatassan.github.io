@@ -13,7 +13,7 @@ body {
 #head h1 {
   display: inline-block;
   font-size: 40px;
-  padding: 5px 50px 5px 0px;
+  padding: 5px 50px 5px 5px;
 }
 
 #head img {
@@ -57,8 +57,7 @@ body {
 }
 
 .botoes-fotos-animais ul li a img{
-  float: right;
-  padding: 5px 50px 5px 5px;
+  padding: 5px 5px 5px 50px;
   display: table-cell;
   border: 3px solid #E5C4EF;
   width: 200px;
@@ -66,11 +65,10 @@ body {
 }
 
 figcaption {
-  float: right;
   font-size: 15px;
   display: table-caption;
   caption-side: top;
-  padding: 80px 50px 0px 5px;
+  padding: 80px 5px 5px 50px;
 }
 
 .botoes-fotos-animais ul li a img:hover {
