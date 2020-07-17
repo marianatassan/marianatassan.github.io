@@ -2,44 +2,44 @@ body {
   background-color: #FFFFCC;
 }
 
-#logo {
+#head {
   display: table;
   background-color: #E5C4EF;
   opacity: 0.8;
-  height: 30px;
+  height: 20px;
   width: 100%;
 }
 
-#logo h1 {
+#head h1 {
   display: inline-block;
-  font-size: 40px;
+  font-size: 60px;
   padding: 5px 50px 5px 50px;
 }
 
-#logo img {
+#head img {
   display: inline-block;
   padding: 5px 5px 10px 5px;
-  width: 50px;
+  width: 80px;
 }
 
-#menu ul{
+#head ul{
   display: table;
+  float: right;
   margin: 0;
   list-style: none;
 }
 
-#menu ul li {
+#head ul li {
   display: table-cell;
 }
 
-#menu ul li a {
-  float: right;
+#head ul li a {
   padding: 10px;
   color: #000000;
   text-decoration: none;
 }
 
-#menu ul li a:hover {
+#head ul li a:hover {
   color: white;
 }
 
@@ -54,7 +54,7 @@ body {
 
 .botoes-fotos-animais ul li a{
   display: table-cell;
-  padding: 15px 50px 75px 5px;
+  padding: 85px 50px 85px 5px;
 }
 
 .botoes-fotos-animais ul li a img{
