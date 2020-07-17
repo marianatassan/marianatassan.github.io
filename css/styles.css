@@ -13,7 +13,7 @@ body {
 #head h1 {
   display: inline-block;
   font-size: 40px;
-  padding: 5px 50px 5px 25px;
+  padding: 5px 50px 5px 10px;
 }
 
 #head img {
@@ -54,7 +54,7 @@ body {
 
 .botoes-fotos-animais ul li a{
   display: table-cell;
-  padding: 5px 50px 5px 5px;
+  padding: 5px 50px 5px 10px;
 }
 
 .botoes-fotos-animais ul li a img{
@@ -77,6 +77,6 @@ figcaption {
 
 .rodape a img{
   float: right;
-  padding: 50px 5px 20px 10px;
+  padding: 20px 5px 5px 10px;
   width: 130px;
 }
