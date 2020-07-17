@@ -6,7 +6,7 @@ body {
   display: table;
   background-color: #E5C4EF;
   opacity: 0.8;
-  height: 50px;
+  height: 40px;
   width: 100%;
 }
 
@@ -18,14 +18,14 @@ body {
 
 #head img {
   display: inline-block;
-  padding: 5px 5px 10px 5px;
+  padding: 5px 5px 5px 5px;
   width: 140px;
 }
 
 #head ul{
   display: table;
   float: right;
-  padding: 5px 5px 10px 5px;
+  padding: 5px 5px 5px 5px;
   margin: 0;
   list-style: none;
 }
@@ -54,7 +54,7 @@ body {
 
 .botoes-fotos-animais ul li a{
   display: table-cell;
-  padding: 85px 50px 85px 5px;
+  padding: 5px 50px 5px 5px;
 }
 
 .botoes-fotos-animais ul li a img{
@@ -66,7 +66,7 @@ body {
 
 figcaption {
   font-size: 15px;
-  padding: 85px 50px 85px 5px;
+  padding: 10px 50px 10px 5px;
   display: table-caption;
   caption-side: top;
 }
