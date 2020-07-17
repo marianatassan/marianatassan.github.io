@@ -18,14 +18,13 @@ body {
 
 #head img {
   display: inline-block;
-  padding: 10px 1px 10px 1px;
+  padding: 5px 1px 10px 5px;
   width: 120px;
 }
 
 #head ul{
   display: table;
   float: right;
-  padding: 5px 10px 5px 14px;
   margin: 0;
   list-style: none;
 }
@@ -37,6 +36,7 @@ body {
 #head ul li a {
   color: #000000;
   text-decoration: none;
+  padding: 5px 10px 5px 14px;
 }
 
 #head ul li a:hover {
@@ -46,7 +46,6 @@ body {
 .botoes-fotos-animais ul {
   display: table;
   list-style: none;
-  padding: 50px 50px 50px 5px;
 }
 
 .botoes-fotos-animais ul li {
@@ -69,6 +68,7 @@ figcaption {
   font-size: 15px;
   display: table-caption;
   caption-side: top;
+  padding: 50px 50px 50px 5px;
 }
 
 .botoes-fotos-animais ul li a img:hover {
