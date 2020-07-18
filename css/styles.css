@@ -86,15 +86,15 @@ body {
   border: 3px solid #E5C4EF;
 }
 
+.botoes-fotos-animais2 ul li a img:hover {
+  border: 2px solid #777;
+}
+
 figcaption {
   font-size: 15px;
   display: table-caption;
   caption-side: top;
-  padding: 80px 50px 5px 5px;
-}
-
-.botoes-fotos-animais ul li a img:hover {
-  border: 2px solid #777;
+  padding: 30px 50px 5px 5px;
 }
 
 .rodape a img{
