@@ -65,6 +65,27 @@ body {
   border: 3px solid #E5C4EF;
 }
 
+.botoes-fotos-animais2 ul {
+  display: table;
+  list-style: none;
+}
+
+.botoes-fotos-animais2 ul li {
+  display: table-cell;
+}
+
+.botoes-fotos-animais2 ul li a{
+  display: table-cell;
+  padding: 5px 50px 5px 10px;
+}
+
+.botoes-fotos-animais2 ul li a img{
+  display: table-cell;
+  width: 200px;
+  height: 200px;
+  border: 3px solid #E5C4EF;
+}
+
 figcaption {
   font-size: 15px;
   display: table-caption;
