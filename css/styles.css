@@ -2,7 +2,9 @@ body {
   background-color: #FFFFCC;
   margin: 0 auto;
 }
-
+.pagina inicial {
+  margin: 0 auto;
+}
 #head {
   display: table;
   background-color: #E5C4EF;
@@ -66,7 +68,7 @@ body {
 }
 
 .botoes-fotos-animais ul li a img:hover {
-  border: 5px solid #FFFFFF;
+  border: 3px solid #000000;
 }
 
 figcaption {
@@ -78,6 +80,6 @@ figcaption {
 
 .rodape a img{
   float: right;
-  padding: 20px 5px 5px 10px;
+  padding: 80px 5px 80px 10px;
   width: 130px;
 }
