@@ -65,6 +65,10 @@ body {
   border: 3px solid #E5C4EF;
 }
 
+.botoes-fotos-animais ul li a img:hover {
+  color: black;
+}
+
 figcaption {
   font-size: 15px;
   display: table-caption;
