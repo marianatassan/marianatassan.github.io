@@ -14,7 +14,7 @@ body {
 #head h1 {
   display: inline-block;
   font-size: 40px;
-  padding: 5px 25px 5px 25px;
+  padding: 5px 50px 5px 50px;
 }
 
 #head img {
@@ -66,7 +66,7 @@ body {
 }
 
 .botoes-fotos-animais ul li a img:hover {
-  border: 5px solid #000000;
+  border: 5px solid #FFFFFF;
 }
 
 figcaption {
