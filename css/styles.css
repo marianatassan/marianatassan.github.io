@@ -1,10 +1,9 @@
 body {
   background-color: #FFFFCC;
+  margin: 0 auto;
 }
 
 #head {
-  margin: 0 auto;
-  position: relative;
   display: table;
   background-color: #E5C4EF;
   opacity: 0.8;
@@ -15,7 +14,7 @@ body {
 #head h1 {
   display: inline-block;
   font-size: 40px;
-  padding: 5px 50px 5px 10px;
+  padding: 5px 100px 5px 10px;
 }
 
 #head img {
