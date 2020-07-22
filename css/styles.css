@@ -31,13 +31,13 @@ body {
 
 #cabeca ul li {
   display: table-cell;
-  padding: 3em 0em 0em 2em;
+  padding: 3em 2em 0em 0em;
 }
 
 #cabeca ul li a {
   color: #000000;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 17px;
 }
 
 #cabeca ul li a:hover {
@@ -55,7 +55,7 @@ body {
 
 .botoes-fotos-animais ul li a{
   display: table-cell;
-  padding: 2em 1em 2em 4em;
+  padding: 2em 2em 2em 4em;
 }
 
 .botoes-fotos-animais ul li a img{
@@ -73,7 +73,7 @@ figcaption {
   font-size: 15px;
   display: table-caption;
   caption-side: top;
-  padding: 2em 1em 0em 4em;
+  padding: 2em 2em 0em 4em;
 }
 
 .rodape a img{
