@@ -21,7 +21,7 @@ body {
 
 #head img {
   display: inline-block;
-  padding: 50px 4px 35px 3px;
+  padding: 5px 4px 5px 3px;
   width: 60px;
 }
 
@@ -57,7 +57,7 @@ body {
 
 .botoes-fotos-animais ul li a{
   display: table-cell;
-  padding: 5px 50px 5px 30px;
+  padding: 5px 50px 5px 2px;
 }
 
 .botoes-fotos-animais ul li a img{
