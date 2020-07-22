@@ -15,7 +15,7 @@ body {
 
 #cabeca h1 {
   display: inline-block;
-  font-size: 30px;
+  font-size: 40px;
   padding: 25px 50px 5px 50px;
 }
 
@@ -58,7 +58,7 @@ body {
 
 .botoes-fotos-animais ul li a{
   display: table-cell;
-  padding: 5px 100px 5px 50px;
+  padding: 5px 100px 5px 5px;
 }
 
 .botoes-fotos-animais ul li a img{
