@@ -5,7 +5,7 @@ body {
 .pagina inicial {
   margin: 0 auto;
 }
-#head {
+#cabeca {
   display: table;
   background-color: #EFEEEE;
   opacity: 0.8;
@@ -13,36 +13,36 @@ body {
   width: 100%;
 }
 
-#head h1 {
+#cabeca h1 {
   display: inline-block;
   font-size: 40px;
   padding: 25px 50px 5px 50px;
 }
 
-#head img {
+#cabeca img {
   display: inline-block;
   padding: 5px 4px 5px 3px;
   width: 60px;
 }
 
-#head ul{
+#cabeca ul{
   display: table;
   float: right;
   margin: 0;
   list-style: none;
 }
 
-#head ul li {
+#cabeca ul li {
   display: table-cell;
   padding: 50px 10px 35px 24px;
 }
 
-#head ul li a {
+#cabeca ul li a {
   color: #000000;
   text-decoration: none;
 }
 
-#head ul li a:hover {
+#cabeca ul li a:hover {
   color: #E5C4EF;
 }
 
