@@ -7,7 +7,6 @@ body {
 }
 #cabeca {
   display: table;
-  background-color: #F6F5F5;
   opacity: 0.8;
   height: 25px;
   width: 100%;
@@ -40,7 +39,7 @@ body {
 #cabeca ul li a {
   color: #000000;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 #cabeca ul li a:hover {
