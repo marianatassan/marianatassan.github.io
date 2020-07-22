@@ -57,7 +57,7 @@ body {
 
 .botoes-fotos-animais ul li a{
   display: table-cell;
-  padding: 5px 50px 5px 25px;
+  padding: 5px 50px 5px 5px;
 }
 
 .botoes-fotos-animais ul li a img{
