@@ -21,7 +21,7 @@ body {
 
 #head img {
   display: inline-block;
-  padding: 25px 4px 5px 3px;
+  padding: 15px 4px 5px 3px;
   width: 60px;
 }
 
@@ -34,7 +34,7 @@ body {
 
 #head ul li {
   display: table-cell;
-  padding: 50px 10px 25px 24px;
+  padding: 50px 10px 35px 24px;
 }
 
 #head ul li a {
@@ -43,7 +43,7 @@ body {
 }
 
 #head ul li a:hover {
-  color: white;
+  color: #E5C4EF;
 }
 
 .botoes-fotos-animais ul {
@@ -57,7 +57,7 @@ body {
 
 .botoes-fotos-animais ul li a{
   display: table-cell;
-  padding: 5px 50px 5px 5px;
+  padding: 5px 25px 5px 5px;
 }
 
 .botoes-fotos-animais ul li a img{
