@@ -13,12 +13,12 @@ body {
 #cabeca h1 {
   display: inline-block;
   font-size: 40px;
-  padding: 2em;
+  padding: 1em 0em 1em 3em;
 }
 
 #cabeca img {
   display: inline-block;
-  padding: 0.5em;
+  padding: 0em 0em 0em 3em;
   width: 55px;
 }
 
@@ -31,7 +31,7 @@ body {
 
 #cabeca ul li {
   display: table-cell;
-  padding: 2em;
+  padding: 1em 3em 1em 0em;
 }
 
 #cabeca ul li a {
