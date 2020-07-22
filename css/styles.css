@@ -34,7 +34,7 @@ body {
 
 #cabeca ul li {
   display: table-cell;
-  padding: 30px 10px 30px 24px;
+  padding: 50px 10px 50px 24px;
 }
 
 #cabeca ul li a {
@@ -57,7 +57,7 @@ body {
 
 .botoes-fotos-animais ul li a{
   display: table-cell;
-  padding: 5px 50px 5px 70px;
+  padding: 5px 50px 5px 5px;
 }
 
 .botoes-fotos-animais ul li a img{
