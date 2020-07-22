@@ -13,13 +13,13 @@ body {
 #cabeca h1 {
   display: inline-block;
   font-size: 40px;
-  padding: 0em 0em 0em 3em;
+  padding: 0em 0em 0em 2em;
 }
 
 #cabeca img {
   display: inline-block;
-  padding: 0em 0em 0em 3em;
-  width: 55px;
+  padding: 0em 0em 0em 1em;
+  width: 60px;
 }
 
 #cabeca ul{
@@ -31,7 +31,7 @@ body {
 
 #cabeca ul li {
   display: table-cell;
-  padding: 1em 3em 1em 0em;
+  padding: 0em 3em 0em 0em;
 }
 
 #cabeca ul li a {
@@ -55,7 +55,7 @@ body {
 
 .botoes-fotos-animais ul li a{
   display: table-cell;
-  padding: 5px 100px 5px 5px;
+  padding: 2em 1em 2em 1em;
 }
 
 .botoes-fotos-animais ul li a img{
@@ -73,7 +73,7 @@ figcaption {
   font-size: 15px;
   display: table-caption;
   caption-side: top;
-  padding: 90px 50px 5px 5px;
+  padding: 90px 1em 5px 1em;
 }
 
 .rodape a img{
