@@ -31,7 +31,7 @@ body {
 
 #cabeca ul li {
   display: table-cell;
-  padding: 4em 2em 4em 0em;
+  padding: 2em 2em 2em 0em;
 }
 
 #cabeca ul li a {
@@ -46,10 +46,9 @@ body {
 
 .botoes-fotos-animais p {
   display: inline-block;
+  text-align: center;
   font-size: 25px;
   padding: 0em 0em 0em 2em;
-  margin-left:auto; 
-  margin-right:auto;
 }
 
 .botoes-fotos-animais ul1 {
@@ -70,8 +69,8 @@ body {
 
 .botoes-fotos-animais ul1 li a img{
   display: table-cell;
-  width: 180px;
-  height: 180px;
+  width: 160px;
+  height: 160px;
   border: 3px solid #000000;
 }
 
@@ -99,8 +98,8 @@ body {
 
 .botoes-fotos-animais ul2 li a img{
   display: table-cell;
-  width: 150px;
-  height: 150px;
+  width: 160px;
+  height: 160px;
   border: 3px solid #000000;
 }
 
