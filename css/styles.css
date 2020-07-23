@@ -31,7 +31,7 @@ body {
 
 #cabeca ul li {
   display: table-cell;
-  padding: 2em 2em 2em 0em;
+  padding: 2em 2em 2em 2em;
 }
 
 #cabeca ul li a {
@@ -93,7 +93,7 @@ body {
 
 .botoes-fotos-animais ul2 li a{
   display: table-cell;
-  padding: 1em 2em 0em 2em;
+  padding: 1em 0em 0em 2em;
 }
 
 .botoes-fotos-animais ul2 li a img{
