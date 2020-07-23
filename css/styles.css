@@ -45,9 +45,8 @@ body {
 }
 
 .botoes-fotos-animais p {
-  display: inline-block;
   font-size: 20px;
-  padding: 0em 0em 0em 31.5em;
+  text-align: center;
 }
 
 .botoes-fotos-animais ul1 {
@@ -63,7 +62,7 @@ body {
 
 .botoes-fotos-animais ul1 li a{
   display: table-cell;
-  padding: 2em 0em 1em 2em;
+  padding: 2em 0em 0em 1em;
 }
 
 .botoes-fotos-animais ul1 li a img{
@@ -93,7 +92,7 @@ body {
 
 .botoes-fotos-animais ul2 li a{
   display: table-cell;
-  padding: 0em 0em 0em 2em;
+  padding: 0em 0em 0em 1em;
 }
 
 .botoes-fotos-animais ul2 li a img{
