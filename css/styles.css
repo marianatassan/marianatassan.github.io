@@ -31,7 +31,7 @@ body {
 
 #cabeca ul li {
   display: table-cell;
-  padding: 2em 1em 0em 1em;
+  padding: 3em 1em 0em 1em;
 }
 
 #cabeca ul li a {
@@ -46,9 +46,8 @@ body {
 
 .botoes-fotos-animais p {
   display: inline-block;
-  text-align: center;
   font-size: 20px;
-  /*padding: 0em 0em 0em 2em;*/
+  padding: 0em 10em 0em 0em;
 }
 
 .botoes-fotos-animais ul1 {
@@ -58,9 +57,9 @@ body {
   margin-right:auto;
 }
 
-/*.botoes-fotos-animais ul1 li {
+.botoes-fotos-animais ul1 li {
   display: table-cell;
-}*/
+}
 
 .botoes-fotos-animais ul1 li a{
   display: table-cell;
@@ -87,9 +86,9 @@ body {
   margin-right:auto;
 }
 
-/*.botoes-fotos-animais ul2 li {
+.botoes-fotos-animais ul2 li {
   display: table-cell;
-}*/
+}
 
 .botoes-fotos-animais ul2 li a{
   display: table-cell;
