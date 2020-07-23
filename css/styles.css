@@ -61,7 +61,7 @@ body {
 
 .botoes-fotos-animais ul1 li a{
   display: table-cell;
-  padding: 2em 10em 2em 15em;
+  padding: 2em 0em 2em 2em;
 }
 
 .botoes-fotos-animais ul1 li a img{
@@ -88,7 +88,7 @@ body {
 
 .botoes-fotos-animais ul2 li a{
   display: table-cell;
-  padding: 2em 5em 2em 10em;
+  padding: 2em 0em 2em 4em;
 }
 
 .botoes-fotos-animais ul2 li a img{
