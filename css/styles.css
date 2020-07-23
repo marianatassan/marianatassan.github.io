@@ -53,11 +53,11 @@ body {
 .botoes-fotos-animais ul1 {
   display: table;
   list-style: none;
+  text-align: center;
 }
 
 .botoes-fotos-animais ul1 li {
   display: table-cell;
-  text-align: center;
 }
 
 .botoes-fotos-animais ul1 li a{
@@ -81,16 +81,16 @@ body {
 .botoes-fotos-animais ul2 {
   display: table;
   list-style: none;
+  text-align: center;
 }
 
 .botoes-fotos-animais ul2 li {
   display: table-cell;
-  text-align: center;
 }
 
 .botoes-fotos-animais ul2 li a{
   display: table-cell;
-  padding: 1em 0em 0em 5em;
+  padding: 1em 4em 0em 4em;
 }
 
 .botoes-fotos-animais ul2 li a img{
