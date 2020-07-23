@@ -37,7 +37,7 @@ body {
 #cabeca ul li a {
   color: #000000;
   text-decoration: none;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 #cabeca ul li a:hover {
@@ -47,7 +47,7 @@ body {
 .botoes-fotos-animais p {
   display: inline-block;
   font-size: 20px;
-  padding: 0em 10em 0em 0em;
+  padding: 0em 0em 0em 10em;
 }
 
 .botoes-fotos-animais ul1 {
