@@ -1,5 +1,45 @@
 body {margin: 0 auto;}
 
+form {
+  border: 3px solid #f1f1f1;
+  width: 800px;
+  height: 600px;
+}
+
+.container input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.container button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.container button:hover {
+  opacity: 0.8;
+}
+
+.container {
+  padding: 200px;
+}
+
+.container p{
+	text-align: center;
+}
+.container a{
+	padding-left: 40%;
+}
+
 .cabeca {
   display: table;
   width: 100%;
@@ -14,17 +54,17 @@ body {margin: 0 auto;}
 
 .cabeca img {
   display: inline-block;
-  width: 60px;
   margin-left: 1em;
+  width: 60px;
   vertical-align: middle;
 }
 
 .cabeca ul{
   display: table;
   float: right;
-  list-style: none;
   margin-top:auto;
   margin-bottom:auto;
+  list-style: none;
 }
 
 .cabeca ul li {
@@ -56,21 +96,25 @@ body {margin: 0 auto;}
 }
 
 .botoes-fotos-animais ul1 li {
-  display: table-cell;
-  padding: 0 0em 0 1em;
+	display: table-cell;
+	padding: 0 0em 0 1em;
 }
+
+/*.botoes-fotos-animais ul1 li a{
+  display: table-cell;
+  padding: 2em 0em 0em 1em;
+}*/
 
 .botoes-fotos-animais ul1 li a img{
   display: table-cell;
   width: 200px;
   height: 180px;
   border: 3px solid #000000;
-  border-radius: 45%;
 }
 
 .botoes-fotos-animais ul1 li a img:hover {
   border: 3px solid #73E34D;
-  border-radius: 50%;
+  border-radius: 20%;
 }
 
 .botoes-fotos-animais ul2 {
@@ -81,8 +125,8 @@ body {margin: 0 auto;}
 }
 
 .botoes-fotos-animais ul2 li {
-  display: table-cell;
-  padding: 0 0em 0 1em;
+	display: table-cell;
+	padding: 0 0em 0 1em;
 }
 
 .botoes-fotos-animais ul2 li a img{
@@ -90,10 +134,9 @@ body {margin: 0 auto;}
   width: 200px;
   height: 180px;
   border: 3px solid #000000;
-  border-radius: 45%;
 }
 
 .botoes-fotos-animais ul2 li a img:hover {
   border: 3px solid #73E34D;
-  border-radius: 50%;
+  border-radius: 20%;
 }
